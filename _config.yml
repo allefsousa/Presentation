@@ -2,17 +2,17 @@
 title: 'Allef Sousa'
 description: 'Computer Science Student'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+baseurl: '/Presentation/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Josh Gerdes'
   email: allefsousa_1@hotmail.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  twitter_username: https://twitter.com/AllefSsousa
+  facebook_username: https://www.facebook.com/allefsousas
+  github_username:  https://github.com/allefsousa
+  linkedin_username: https://br.linkedin.com/in/allef-sousa-b1a18175
 
 defaults:
   -
