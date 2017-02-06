@@ -1,5 +1,5 @@
 title:  "Allef sousa  Developer "
-date:   2016-12-16 05:00:00
+date:   2017-02-05 00:45:00
 categories: [Desenvolvimento]
 tags: [Android, Mobile]
 	teste tetste 
